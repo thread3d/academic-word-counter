@@ -72,3 +72,5 @@ Academic Word Counter is designed to make academic word counting feel simple, mo
 - Analysis logic is implemented in TypeScript and can be extended with additional rules
 
 ## License
+
+MIT License - feel free to modify and extend!

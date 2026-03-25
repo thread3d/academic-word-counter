@@ -1,0 +1,5 @@
+{
+  "name": "Academic Word Counter",
+  "description": "Calculate precise academic word counts by automatically excluding references, bibliographies, and appendices from PDF and DOCX files.",
+  "requestFramePermissions": []
+}
